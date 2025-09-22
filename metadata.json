@@ -1,0 +1,5 @@
+{
+  "name": "Forex RSI Screener",
+  "description": "A web portal that scans Forex instruments and shows top RSI opportunities across multiple timeframes, with a user experience inspired by TradingView's Pine screener. Features include multi-timeframe scanning, advanced filtering, sparklines, a heatmap view, and a mini-chart modal for quick analysis.",
+  "requestFramePermissions": []
+}
